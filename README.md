@@ -5,8 +5,15 @@
     <p>Consiste em lógica de programação como avaliação da Ubots, onde os desafios se encontram nos links abaixo</p>
     <br><hr>
     <div>
-    <a href="https://www.hackerrank.com/challenges/self-balancing-tree/">Balancing Tree</a>
-    <a href="https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/">Cycle</a>
+        <h3>Balacing Tree</h3>
+        <ul>
+            <li><a href="https://www.hackerrank.com/challenges/self-balancing-tree/" target="_blank">Balancing Tree</a></li>
+        </ul>
+        <h3>Cycle</h3>
+        <ul>
+        <li><a href="https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/" target="_blank">Cycle</a>
+        </li>
+        </ul>
     </div>
 
 </div>
